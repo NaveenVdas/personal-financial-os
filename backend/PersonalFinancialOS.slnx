@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PersonalFinancialOS.Api/PersonalFinancialOS.Api.csproj" />
+    <Project Path="src/PersonalFinancialOS.Application/PersonalFinancialOS.Application.csproj" />
+    <Project Path="src/PersonalFinancialOS.Domain/PersonalFinancialOS.Domain.csproj" Id="dda611e3-825c-4bea-b873-e972e759d1ce" />
+    <Project Path="src/PersonalFinancialOS.Infrastructure/PersonalFinancialOS.Infrastructure.csproj" Id="9ee7d178-286f-4380-a734-5ffe28f8cd74" />
+    <Project Path="src/PersonalFinancialOS.Shared/PersonalFinancialOS.Shared.csproj" Id="3da8f85b-8648-4a60-a7b9-87bd71173e04" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PersonalFinancialOS.IntegrationTests/PersonalFinancialOS.IntegrationTests.csproj" Id="3113f924-9e5b-4de1-b758-b3610058f9ae" />
+    <Project Path="tests/PersonalFinancialOS.UnitTests/PersonalFinancialOS.UnitTests.csproj" Id="2a73e6fc-ed1f-4b66-9098-b97c6006617d" />
+  </Folder>
+</Solution>
